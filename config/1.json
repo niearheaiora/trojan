@@ -1,11 +1,11 @@
 [
 	{
-		"module"	:	"sandbox_detection"	
+		"module/windows"	:	"sandbox_detection"	
 	},
 	{
-		"module"	:	"dirlister"
+		"module/universal"	:	"dirlister"
 	},
 	{
-		"module"	:	"environment"
+		"module/universal"	:	"environment"
 	}
 ]
